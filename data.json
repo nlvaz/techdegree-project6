@@ -1,0 +1,49 @@
+{
+  "projects": [
+    {
+      "id": 0,
+      "project_name": "Random Quote Generator",
+      "description": "Generates random quotes when button in clicked or at certain time interval.",
+      "technologies": "",
+      "live_link": "",
+      "github_link": "",
+      "image_urls": []
+    },
+    {
+      "id": 1,
+      "project_name": "Pagination & Filtering",
+      "description": "Paginates list of students, and filters list if value is searched",
+      "technologies": "",
+      "live_link": "",
+      "github_link": "",
+      "image_urls": []
+    },
+    {
+      "id": 2,
+      "project_name": "Form Validation",
+      "description": "Checks if form is valid after user populates with information and provides error messages",
+      "technologies": "",
+      "live_link": "",
+      "github_link": "",
+      "image_urls": []
+    },
+    {
+      "id": 3,
+      "project_name": "Phrase Hunter",
+      "description": "Uses object-oriented programming for a game where random phrases are displayed by empty boxes. Users can use keyboard to select letters or click on screen keyboard.",
+      "technologies": "",
+      "live_link": "",
+      "github_link": "",
+      "image_urls": []
+    },
+    {
+      "id": 4,
+      "project_name": "Public API Requests",
+      "description": "Uses public APIs to generate random profiles. Additional inofmation about randomly generated profiles are shown when they are clicked. Profiles can be searched through.",
+      "technologies": "",
+      "live_link": "",
+      "github_link": "",
+      "image_urls": []
+    }
+  ]
+}
