@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nlvaz/techdegree-project6/issues"
   },
-  "homepage": "https://github.com/nlvaz/techdegree-project6#readme"
+  "homepage": "https://github.com/nlvaz/techdegree-project6#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  }
 }
