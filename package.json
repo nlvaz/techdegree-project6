@@ -2,7 +2,12 @@
   "name": "techdegree-project6",
   "version": "1.0.0",
   "description": "Portfolio Site",
-  "main": "index.js",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "pug": "^2.0.3"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,9 +20,5 @@
   "bugs": {
     "url": "https://github.com/nlvaz/techdegree-project6/issues"
   },
-  "homepage": "https://github.com/nlvaz/techdegree-project6#readme",
-  "dependencies": {
-    "express": "^4.16.4",
-    "pug": "^2.0.3"
-  }
+  "homepage": "https://github.com/nlvaz/techdegree-project6#readme"
 }
