@@ -7,7 +7,7 @@
       "technologies": ["JavaScript"],
       "live_link": "https://nlvaz.github.io/techdegree-project1/",
       "github_link": "https://github.com/nlvaz/techdegree-project1",
-      "image_urls": ["./views/imgs/proj1_landing.jpg", "./views/imgs/proj1_screenshot.png", "./views/imgs/proj1_screenshot1.png"]
+      "image_urls": ["./imgs/proj1_landing.jpg", "./imgs/proj1_screenshot.png", "./imgs/proj1_screenshot1.png"]
     },
     {
       "id": 1,
@@ -16,7 +16,7 @@
       "technologies": ["JavaScript"],
       "live_link": "https://nlvaz.github.io/techdegree-project2/",
       "github_link": "https://github.com/nlvaz/techdegree-project2",
-      "image_urls": ["./views/imgs/proj2_landing.jpg", "./views/imgs/proj2_screenshot.png", "./views/imgs/proj2_screenshot1.png", "./views/imgs/proj2_screenshot2.png"]
+      "image_urls": ["./imgs/proj2_landing.jpg", "./imgs/proj2_screenshot.png", "./imgs/proj2_screenshot1.png", "./imgs/proj2_screenshot2.png"]
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
       "technologies": ["JavaScript", "jQuery"],
       "live_link": "https://nlvaz.github.io/techdegree-project3/",
       "github_link": "https://github.com/nlvaz/techdegree-project3",
-      "image_urls": ["./views/imgs/proj3_landing.png", "./views/imgs/proj3_screenshot.png", "./views/imgs/proj3_screenshot1.png"]
+      "image_urls": ["./imgs/proj3_landing.png", "./imgs/proj3_screenshot.png", "./imgs/proj3_screenshot1.png"]
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
       "technologies": ["JavaScript"],
       "live_link": "https://nlvaz.github.io/techdegree-project4/",
       "github_link": "https://github.com/nlvaz/techdegree-project4",
-      "image_urls": ["./views/imgs/proj4_landing.png", "./views/imgs/proj4_screenshot.png", "./views/imgs/proj4_screenshot1.png", "./views/imgs/proj4_screenshot2.png"]
+      "image_urls": ["./imgs/proj4_landing.png", "./imgs/proj4_screenshot.png", "./imgs/proj4_screenshot1.png", "./imgs/proj4_screenshot2.png"]
     },
     {
       "id": 4,
@@ -43,7 +43,7 @@
       "technologies": ["JavaScript", "jQuery"],
       "live_link": "https://nlvaz.github.io/techdegree-project5/",
       "github_link": "https://github.com/nlvaz/techdegree-project5",
-      "image_urls": ["./views/imgs/proj5_landing.png", "./views/imgs/proj5_screenshot.png", "./views/imgs/proj5_screenshot1.png", "./views/imgs/proj5_screenshot2.png"]
+      "image_urls": ["./imgs/proj5_landing.png", "./imgs/proj5_screenshot.png", "./imgs/proj5_screenshot1.png", "./imgs/proj5_screenshot2.png"]
     }
   ]
 }
