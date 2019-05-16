@@ -4,7 +4,7 @@
       "id": 0,
       "project_name": "Random Quote Generator",
       "description": "Generates random quotes when button in clicked or at certain time interval.",
-      "technologies": ["JavaScript"],
+      "technologies": ["JavaScript", "HTML", "CSS"],
       "live_link": "https://nlvaz.github.io/techdegree-project1/",
       "github_link": "https://github.com/nlvaz/techdegree-project1",
       "image_urls": ["/static/imgs/proj1_landing.jpg", "/static/imgs/proj1_screenshot.png", "/static/imgs/proj1_screenshot1.png"]
@@ -31,7 +31,7 @@
       "id": 3,
       "project_name": "Phrase Hunter",
       "description": "Uses object-oriented programming for a game where random phrases are displayed by empty boxes. Users can use keyboard to select letters or click on screen keyboard.",
-      "technologies": ["JavaScript"],
+      "technologies": ["JavaScript", "CSS"],
       "live_link": "https://nlvaz.github.io/techdegree-project4/",
       "github_link": "https://github.com/nlvaz/techdegree-project4",
       "image_urls": ["/static/imgs/proj4_landing.png", "/static/imgs/proj4_screenshot.png", "/static/imgs/proj4_screenshot1.png", "/static/imgs/proj4_screenshot2.png"]
@@ -40,7 +40,7 @@
       "id": 4,
       "project_name": "Public API Requests",
       "description": "Uses public APIs to generate random profiles. Additional inofmation about randomly generated profiles are shown when they are clicked. Profiles can be searched through.",
-      "technologies": ["JavaScript", "jQuery"],
+      "technologies": ["JavaScript", "jQuery", "CSS"],
       "live_link": "https://nlvaz.github.io/techdegree-project5/",
       "github_link": "https://github.com/nlvaz/techdegree-project5",
       "image_urls": ["/static/imgs/proj5_landing.png", "/static/imgs/proj5_screenshot.png", "/static/imgs/proj5_screenshot1.png", "/static/imgs/proj5_screenshot2.png"]

@@ -6,11 +6,14 @@ app.use('/static', express.static('public'));
 
 app.set('view engine', 'pug');
 
-app.use('/', (req, res) => {
+app.get('/', (req, res) => {
   res.render('index', { projects });
 });
 //app.use('/about', );
-//app.use('/project', );
+app.get('/projects/:id', (req, res) => {
+  const id = req.params.id;
+  res.render('project', { project: projects[id] });
+});
 
 
 
