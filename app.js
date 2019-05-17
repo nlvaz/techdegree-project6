@@ -9,7 +9,11 @@ app.set('view engine', 'pug');
 app.get('/', (req, res) => {
   res.render('index', { projects });
 });
-//app.use('/about', );
+
+app.get('/about', (req, res) => {
+  res.render('about');
+});
+
 app.get('/projects/:id', (req, res) => {
   const id = req.params.id;
   res.render('project', { project: projects[id] });
