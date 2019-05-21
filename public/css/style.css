@@ -148,3 +148,13 @@ a:hover{
 .portfolio-bio{
     line-height: 25px;
 }
+
+.error{
+  color: red;
+  font-weight: 900;
+}
+
+.error-img{
+  height: 236px;
+  width: 400px;
+}

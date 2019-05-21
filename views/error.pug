@@ -9,9 +9,10 @@ html(class="no-js" lang="en" dir="ltr")
     link(rel='stylesheet', href='/static/css/foundation.css')
     link(rel='stylesheet', href='/static/css/style.css')
   body
-    section
-    h1 Whoops! Looks like something went wrong!
-    h3= `${error.status}: ${error.message}`
-    a(href="/") ← Go Home
-
-    pre.stack.trace= error.stack
+    div(style="text-align:center")
+      h1 Whoops! Looks like something went wrong!
+      h3.error= `${error.status}: ${error.message}`
+      img.error-img(src='../static/imgs/error.png')
+      nav.grid-container.portfolio-breadcrumb
+        a(href="/") ← Go Home
+      pre.stack.trace= error.stack
