@@ -13,6 +13,8 @@ app.use(mainRoutes);
 app.use((req, res, next) => {
   const err = new Error('Not Found');
   err.status = 404;
+  console.log(`Uh oh! Something went wrong:
+    ${err.status} - ${err.message}`)
   next(err);
 })
 
